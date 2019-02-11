@@ -1,0 +1,38 @@
+#container {
+	padding : 15px 0  10px 0;
+	padding-right: 10%;
+	padding-left: 10%;
+}
+#view-top{
+	height: 50px;
+	border-bottom: 2px solid gray;
+}
+#view-title {
+  font-size: 2.0em; /* 40px/16=2.5em */
+  height: 50px;
+
+}
+
+#view-date {
+  font-size: 1.0em; /* 40px/16=2.5em */
+  height: 50px;
+  line-height: 50px;
+  color: gray;
+}
+
+#view-writer {
+  font-size: 1.0em; /* 40px/16=2.5em */
+  height: 50px;
+  line-height: 50px;
+  color: gray;
+}
+
+#content{
+	margin : 10px 5px  10px 5px;
+	height: 70%;
+	border-bottom: double gray;
+}
+#view-bottom > button{
+
+}
+
